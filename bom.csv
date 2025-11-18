@@ -1,0 +1,20 @@
+LCSC Part Number,Manufacture Part Number,Manufacturer,Customer NO.,Package,Description,RoHS,Quantity,Unit Price($),Ext.Price($),Estimated lead time (business days),Date Code / Lot No.,Status
+C14663,CC0603KRX7R9BB104,YAGEO,,0603,50V 100nF X7R ±10% 0603 Ceramic Capacitors RoHS,YES,200,0.0024,0.48,,,-
+C15849,CL10A105KB8NNNC,Samsung Electro-Mechanics,,0603,50V 1uF X5R ±10% 0603 Ceramic Capacitors RoHS,YES,100,0.0049,0.49,,,-
+C98220,RC0603FR-0710KL,YAGEO,,0603,100mW 10kΩ 75V ±100ppm/℃ Thick Film Resistor ±1% 0603 Chip Resistor - Surface Mount RoHS,YES,200,0.0011,0.22,,,-
+C14877,ATMEGA328P-AU,MICROCHIP,,TQFP-32(7x7),AVR 20MHz 23 TQFP-32(7x7) Microcontrollers RoHS,YES,30,1.6088,48.26,,,-
+C13738,X322516MLB4SI,YXC Crystal Oscillators,,SMD3225-4P,Crystal Oscillator 9pF SMD3225-4P Crystals RoHS,YES,40,0.0662,2.65,,,-
+C38523,CL10C120JB8NNNC,Samsung Electro-Mechanics,,0603,50V 12pF C0G ±5% 0603 Ceramic Capacitors RoHS,YES,200,0.0048,0.96,,,-
+C916074,TZ-P2-0603YGTCS1-0.6T,TUOZHAN,,0603,20mA 50mcd 570nm~575nm Yellow Green 1.9V~2.4V 60mW 0603 LED Indication - Discrete RoHS,YES,100,0.0081,0.81,,,-
+C965799,XL-1608SURC-06,XINGLIGHT,,0603,20mA 225mcd op View Mount 620nm~630nm Red 2.3V 50mW 0603 LED Indication - Discrete RoHS,YES,100,0.0032,0.32,,,-
+C231329,B3U-1000P,OMRON,,"SMD,3x2.5mm","12V 2.5mm Round Button 3mm SPST 50mA SMD,3x2.5mm Tactile Switches RoHS",YES,50,0.1189,5.95,,,-
+C23138,0603WAF3300T5E,UNI-ROYAL,,0603,100mW 330Ω 75V ±100ppm/℃ Thick Film Resistor ±1% 0603 Chip Resistor - Surface Mount RoHS,YES,100,0.0011,0.11,,,-
+C353907,CC1H120KA1PDCH4B3003,Dersonic,,"Through Hole,P=2.54mm","50V 12pF ±10% Through Hole,P=2.54mm Ceramic Capacitors RoHS",YES,50,0.0104,0.52,,,-
+C2832506,CC1H104ZA1ED3F5P1100,Dersonic,,"Through Hole,P=2.54mm","50V 100nF Y5V -20%~+80% Through Hole,P=2.54mm Ceramic Capacitors RoHS",YES,50,0.014,0.70,,,-
+C2896146,CCT105KC6X7RF5FH5A0,SHM,,"Through Hole,P=5mm","50V 1uF X7R ±10% Through Hole,P=5mm Ceramic Capacitors RoHS",YES,10,0.0595,0.60,,,-
+C2903232,MF1/4W-10K±1%-ST52,VO,,"Through Hole,D2.7xL6.2mm","Metal Film Resistor 10kΩ 250mW ±100ppm/℃ ±1% Through Hole,D2.7xL6.2mm Through Hole Resistors RoHS",YES,100,0.005,0.50,,,-
+C42416245,SH-6X6X5H-CJ,SHOU HAN,,"DIP-4P,6x6mm","Without Bracket 6mm 12V 6mm Round Button No SPST 50mA DIP-4P,6x6mm Tactile Switches RoHS",YES,50,0.0093,0.47,,,-
+C33901,ATMEGA328P-PU,MICROCHIP,,DIP-28-300mil,AVR 20MHz 23 DIP-28-300mil Microcontrollers RoHS,YES,30,1.9948,59.84,,,-
+C20618157,NFD5408UGD,NATIONSTAR,,"Through Hole,D=5mm","20mA 9000mcd 515nm~525nm Emerald Green 5mm Round Lens 2.8V~3.4V 200mW Through Hole,D=5mm LED Indication - Discrete RoHS",YES,100,0.0243,2.43,,,-
+C20618154,NFD5408URD,NATIONSTAR,,"Through Hole,D=5mm","20mA 800mcd 620nm~630nm Red 5mm Round Lens 1.8V~2.4V 75mW Through Hole,D=5mm LED Indication - Discrete RoHS",YES,100,0.0248,2.48,,,-
+C1372966,MFR-25FTF52-330R,YAGEO,,"Through Hole,D2.4xL6.3mm","Metal Film Resistor 330Ω 250mW ±100ppm/℃ ±1% Through Hole,D2.4xL6.3mm Through Hole Resistors RoHS",YES,100,0.0062,0.62,,,-
