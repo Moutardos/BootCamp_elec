@@ -4423,7 +4423,7 @@
 	)
 	(symbol
 		(lib_id "MCU_Atmel_42ChipsPro_Mini:GND")
-		(at 278.13 157.48 0)
+		(at 273.05 157.48 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -4432,7 +4432,7 @@
 		(fields_autoplaced yes)
 		(uuid "1508f4a4-a2c1-4305-b1d3-e3f03e419e26")
 		(property "Reference" "#GND00"
-			(at 280.67 155.5749 0)
+			(at 275.59 155.5749 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4441,7 +4441,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 280.67 158.1149 0)
+			(at 275.59 158.1149 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4450,7 +4450,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 278.13 157.48 0)
+			(at 273.05 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4459,7 +4459,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 278.13 157.48 0)
+			(at 273.05 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4468,7 +4468,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 278.13 157.48 0)
+			(at 273.05 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4569,7 +4569,7 @@
 	)
 	(symbol
 		(lib_id "MCU_Atmel_42ChipsPro_Mini:Power_output")
-		(at 278.13 161.29 0)
+		(at 273.05 161.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -4578,7 +4578,7 @@
 		(fields_autoplaced yes)
 		(uuid "303e5ce6-aa25-4785-ab23-c38c5bd45f3b")
 		(property "Reference" "#PO02"
-			(at 280.67 162.5599 0)
+			(at 275.59 162.5599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4587,7 +4587,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 280.67 165.0999 0)
+			(at 275.59 165.0999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4596,7 +4596,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 278.13 161.29 0)
+			(at 273.05 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4605,7 +4605,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 278.13 161.29 0)
+			(at 273.05 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4614,7 +4614,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 278.13 161.29 0)
+			(at 273.05 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5805,7 +5805,7 @@
 	)
 	(symbol
 		(lib_id "MCU_Atmel_42ChipsPro_Mini:Power_output")
-		(at 264.16 161.29 0)
+		(at 259.08 161.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -5814,7 +5814,7 @@
 		(fields_autoplaced yes)
 		(uuid "a51d1a11-3b15-4f59-a235-5965dc184498")
 		(property "Reference" "#PO01"
-			(at 266.7 162.5599 0)
+			(at 261.62 162.5599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5823,7 +5823,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 266.7 165.0999 0)
+			(at 261.62 165.0999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5832,7 +5832,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 264.16 161.29 0)
+			(at 259.08 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5841,7 +5841,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 264.16 161.29 0)
+			(at 259.08 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5850,7 +5850,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 264.16 161.29 0)
+			(at 259.08 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6098,7 +6098,7 @@
 	)
 	(symbol
 		(lib_id "MCU_Atmel_42ChipsPro_Mini:VCC")
-		(at 264.16 157.48 0)
+		(at 259.08 157.48 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -6107,7 +6107,7 @@
 		(fields_autoplaced yes)
 		(uuid "b89dd884-b2e3-4983-88b3-4c2b10e3fbb0")
 		(property "Reference" "#VCC00"
-			(at 266.7 155.5749 0)
+			(at 261.62 155.5749 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6116,7 +6116,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 266.7 158.1149 0)
+			(at 261.62 158.1149 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6125,7 +6125,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 264.16 157.48 0)
+			(at 259.08 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6134,7 +6134,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 264.16 157.48 0)
+			(at 259.08 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6143,7 +6143,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 264.16 157.48 0)
+			(at 259.08 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)

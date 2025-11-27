@@ -23,7 +23,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Footprint:CR_Generic"
 			(at 0 0 0)
 			(effects
 				(font
@@ -309,6 +309,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -1732,12 +1733,13 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "Power_output"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -2046,6 +2048,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
